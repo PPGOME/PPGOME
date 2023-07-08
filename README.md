@@ -2,7 +2,7 @@ Thanks for checking out my profile! Welcome to my coding playground.
 
 Need to contact me? Message me on Discord (ppgome)
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=red" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=PPGOME&style=flat-square&color=red" alt=""/>
 
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PPGOME&layout=compact)
