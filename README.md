@@ -5,7 +5,7 @@
 - 📫 You can reach me on Discord Gome#8072
 
 ### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PPGOMEm&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PPGOME&layout=compact)
 
 <!---
 PPGOME/PPGOME is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
