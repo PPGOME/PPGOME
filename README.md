@@ -9,6 +9,7 @@
 
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PPGOME&theme=dark" width="48%" >
+I swear Github is sabotaging me I make way more commits and have had actual streaks it doesn't count
 
 <!---
 PPGOME/PPGOME is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
