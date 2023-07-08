@@ -9,6 +9,7 @@ Need to contact me? Message me on Discord (ppgome)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PPGOME&layout=compact&theme=merko)
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PPGOME&theme=vue-dark&hide_border=true&background=EB545400)](https://git.io/streak-stats)
+
 I swear Github is sabotaging me I make way more commits and have had actual streaks it doesn't count
 
 <!---
