@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @PPGOME
-- 👀 I’m interested in software development and game modification development.
-- 🌱 I’m currently learning computer programming.
-- 💞️ I’m looking to collaborate on nothing as of now, because I'm still clueless as to what I'm doing.
-- 📫 You can reach me on Discord Gome#8072
+Thanks for checking out my profile! Welcome to my coding playground.
+
+Need to contact me? Message me on Discord (ppgome)
 
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PPGOME&layout=compact)
