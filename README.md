@@ -5,7 +5,7 @@ Need to contact me? Message me on Discord (ppgome)
 <img src="https://komarev.com/ghpvc/?username=PPGOME&style=flat-square&color=red" alt=""/>
 
 ### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PPGOME&layout=compact)
+ ![PPGOME's GitHub stats](https://github-readme-stats.vercel.app/api?username=PPGOME&show_icons=true&theme=dark)
 
 ### Github Streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PPGOME&theme=vue-dark&hide_border=true&background=EB545400)](https://git.io/streak-stats)
